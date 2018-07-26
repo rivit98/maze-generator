@@ -26,6 +26,7 @@ public:
 
     static const int width = 50;
     static const int height = 50;
+    static const int speed = 25;
     Cell* grid[width][height];
     QStack<Cell *> history;
     Cell * current_cell = nullptr;
