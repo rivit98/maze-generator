@@ -31,7 +31,7 @@ Maze::Maze() : QGraphicsView()
 
     timer = new QTimer(this);
     connect(timer, SIGNAL(timeout()), this, SLOT(generate()));
-    timer->start(20);
+    timer->start(speed);
 }
 
 void Maze::generate()
