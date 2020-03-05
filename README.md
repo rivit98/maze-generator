@@ -1,9 +1,8 @@
-# maze-generator
-Maze generator Recursive backtracker written in c++ using Qt
+# Maze generator
 
+C++\
+QT 5.11.1\
+Algorithm used: [Wikipedia](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Recursive_backtracker)
 
-
-![](https://github.com/rivit98/maze-generator/blob/master/img.gif)  
-(low quality gif)
-
-Compiled version: https://drive.google.com/open?id=1Or8BZwCfVbEznnZQttVfzZaErmKBDD0F
+Demo:\
+![Example](./media/maze.gif)  
