@@ -1,10 +1,12 @@
 # Maze generator
 
-C++\
-QT 5.11.1\
-Algorithm used: [Wikipedia](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Recursive_backtracker)\
-Presentation: [YouTube](https://www.youtube.com/watch?v=tnCdRwtMJCQ)\
-Download: [Zip file](https://github.com/rivit98/maze-generator/releases)
+#### Used:
+ - C++\
+ - QT 5.11.1\
+ - Algorithm used: [Wikipedia](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Recursive_backtracker)\
+ 
+**Presentation**: [YouTube](https://www.youtube.com/watch?v=tnCdRwtMJCQ)\
+**Download**: [Github release](https://github.com/rivit98/maze-generator/releases)
 
-Demo:\
+**Demo**:\
 ![Example](./media/maze.gif)  
